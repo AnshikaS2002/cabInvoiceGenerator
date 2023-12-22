@@ -1,0 +1,4 @@
+.vscode
+invoice_generator/src/main/resources
+invoice_generator/pom.xml
+invoice_generator/target
